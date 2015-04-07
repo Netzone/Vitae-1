@@ -1,6 +1,10 @@
 {
 	"FileVersion": 3,
+<<<<<<< HEAD
 	"EngineAssociation": "{2A152798-4582-94C0-6550-5F9FB13A0F38}",
+=======
+	"EngineAssociation": "4.7",
+>>>>>>> upstream/master
 	"Category": "",
 	"Description": "",
 	"Modules": [
